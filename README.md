@@ -4,6 +4,6 @@ download it to play on your terminal.
 How to play :
 1. Download this repository and keep it to your desktop
 2. open your terminal and goto desktop by typing 'cd Desktop'
-3. type 'cd Rock-Paper-Scissor-game' on your terminal
+3. type 'cd Rock-Paper-Scissor-game-master' on your terminal
 4. type 'python game.py'
 5. Now enjoy the game
